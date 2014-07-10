@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ android:orientation="vertical"
+ android:layout_marginBottom="60dp"
+ android:layout_gravity="center"
+ android:gravity="center"
+ android:id="@+id/abraka">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="latitud" >
+
+   
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="longitud" />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="30dp" />
+    
+    
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="latitud" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="longitud" />
+    
+    
+    <LinearLayout
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ android:orientation="horizontal"
+ android:layout_gravity="center"
+ android:gravity="center"
+ android:weightSum="100"
+ android:layout_marginTop="15dp">
+    
+    
+
+    <Button
+            android:id="@+id/bSearch2"
+            android:layout_width="186dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/vvback"
+            android:gravity="center"
+            android:layout_weight="50"
+            android:layout_marginRight="1dp"
+            android:layout_marginLeft="15dp"/>
+    
+    <Button
+            android:id="@+id/bSearch2"
+            android:layout_width="186dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/vvsearch"
+            android:gravity="center" 
+            android:layout_weight="50"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="15dp"/>
+    
+    
+
+ </LinearLayout>
+ 
+     </LinearLayout>

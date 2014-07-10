@@ -1,0 +1,120 @@
+r 57.7201335 11.9632613
+name Hydro
+/r
+r 57.7066448 11.9926771
+name Statoil
+brand Statoil
+/r
+r 57.7079001 11.9926561
+name Preem - Göteborg,Ullevimotet
+contact:phone 031-156975
+/r
+r 57.7271642 12.0272867
+name Preem - Göteborg,Von Utfallsgatan
+contact:phone 070-4501815
+/r
+r 57.72502 11.98553
+name Preem - Hisings Backa, Trb
+/r
+r 57.7232328 12.0254333
+name Statoil
+/r
+r 57.7115803 11.9711802
+name Uknown fuel
+/r
+r 57.7166731 11.9838309
+name Statoil (LPG) Gasklockan
+opening_hours 24/7
+/r
+r 57.7168828 11.9815447
+name Fordonsgas Gbg Falutorget
+brand Fordonsgas
+opening_hours 24/7
+/r
+r 57.7200055 11.9630397
+name Fordonsgas Gbg Ringön
+brand Fordonsgas
+/r
+r 57.7116966 11.9802106
+name Fordonsgas Gbg Centralen
+brand Fordonsgas
+/r
+r 57.7170231 11.9816644
+name Uknown fuel
+/r
+r 57.715237 11.9959475
+name Statoil
+brand Statoil
+/r
+r 57.6941782 11.935894
+name Shell Djurgårdsplatsen
+/r
+r 57.6805559 11.9442415
+name Preem - Göteborg,Margretebergsg.
+contact:phone 070-4501849
+/r
+r 57.6910689 11.9137259
+name Preem - Göteborg,Jaegerdorffsplatsen
+contact:phone +4631120205
+/r
+r 57.69907 11.92834
+name Preem - Göteborg, Trb Fiskhamnen
+/r
+r 57.7002148 11.9575973
+name Tanka-Göteborg
+/r
+r 57.6922566 11.9156568
+name Shell
+contact:phone +4631120969
+opening_hours Mo-Su 00:00-24:00
+/r
+r 57.6885207 11.9097087
+name Fordonsgas Gbg Majorna
+brand Fordonsgas
+/r
+r 57.682014 12.0025733
+name JET Mölndal
+/r
+r 57.70073 12.01693
+name Tanka-Göteborg
+/r
+r 57.6840915 11.999299
+name Shell
+/r
+r 57.7201335 11.9632613
+name Hydro
+/r
+r 57.71992 11.95905
+name Preem - Göteborg,Frihamnsmotet
+contact:phone 031-220339
+/r
+r 57.72746 11.94808
+name Preem - Göteborg, Trb Ångpanneg
+/r
+r 57.7121375 11.9304981
+name JET Ramberget
+/r
+r 57.7161215 11.9226463
+name Tanka-Göteborg
+/r
+r 57.712299 11.9315855
+name Tanka-Göteborg
+/r
+r 57.7198575 11.9337162
+name OkQ8
+/r
+r 57.7187752 11.9195219
+name Statoil
+brand Statoil
+/r
+r 57.7264758 11.9461458
+name Hydro/ST1
+/r
+r 57.7197358 11.9588113
+name Fordonsgas Gbg Frihamnen
+brand Fordonsgas
+/r
+r 57.7200055 11.9630397
+name Fordonsgas Gbg Ringön
+brand Fordonsgas
+/r

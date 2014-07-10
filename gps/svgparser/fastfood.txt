@@ -1,0 +1,282 @@
+r 57.7073529 11.969952
+name McDonald's
+cuisine burger
+/r
+r 57.7084671 11.9700035
+name McDonald's Express
+cuisine burger
+/r
+r 57.7062774 11.9795326
+name Max hamburgerrestaurang
+cuisine burger
+/r
+r 57.7131648 12.0139077
+name Pizzeria Nobel
+cuisine pizza
+/r
+r 57.7149625 12.0043338
+name Redbergsgrillen
+cuisine burger
+/r
+r 57.705677 11.9714968
+name Hälso Sushi
+cuisine sushi
+/r
+r 57.7059579 11.9705097
+name McDonald's
+cuisine burger
+/r
+r 57.7062674 11.9708745
+name Super Sushi
+cuisine sushi
+/r
+r 57.709508 11.9729453
+name Subway
+cuisine sandwich
+/r
+r 57.7091693 12.0030291
+name Tomas Pizzeria
+/r
+r 57.7270231 11.9958342
+name 24:ans Sibylla
+cuisine burger
+contact:phone 031-210824
+opening_hours Mo-Fr 07:00-16:30
+website http://www.sibylla.se/
+/r
+r 57.7127293 12.0074883
+name Pizzeria Ferrarri
+cuisine pizza
+/r
+r 57.7122445 12.0058951
+name Pizzeria Roma
+cuisine pizza
+/r
+r 57.7111642 12.0038513
+name Pizzeria S:t Pauli
+cuisine pizza
+/r
+r 57.7131271 12.0002786
+name Gubbero Bar
+cuisine pizza
+/r
+r 57.7074798 11.9707411
+name City Kebab
+cuisine kebab
+/r
+r 57.7098911 11.9684412
+name McDonald's
+cuisine burger
+/r
+r 57.7071194 11.9685663
+name Nordstans Kebab &amp; Grill
+cuisine kebab
+/r
+r 57.7096342 11.968585
+name Subway
+cuisine sandwich
+/r
+r 57.7075239 11.9709994
+name Sushi House
+cuisine sushi
+/r
+r 57.7090996 11.9725871
+name Burgerkind
+/r
+r 57.692841 11.9522309
+name Subway
+cuisine sandwich
+/r
+r 57.6800401 11.8999915
+name Thai
+/r
+r 57.6994904 11.9528488
+name Burger King
+/r
+r 57.6853353 11.9259695
+name Godhems Pizzabutik
+/r
+r 57.6773801 11.9281341
+name Högsbo Pizza
+/r
+r 57.7021876 11.8990879
+name Roma
+cuisine pizza
+phone +4631536253
+/r
+r 57.6862787 11.9204643
+name Mariaplans korvkiosk
+cuisine sausage
+/r
+r 57.695615 11.9421619
+name Corners Kebab &amp; Hamburgare
+cuisine burger
+/r
+r 57.6933258 11.9554017
+name Kastells Pizza
+cuisine pizza
+/r
+r 57.6972607 11.9507636
+name Linné Grill &amp; Kök
+/r
+r 57.6956447 11.942295
+name Mini Mac
+cuisine pizza
+/r
+r 57.6887996 11.9641984
+name Guldhedens mat &amp; pizza
+/r
+r 57.6902158 11.982264
+name Peperoni
+cuisine pizza
+/r
+r 57.6905821 12.0054364
+name Pizzeria Blixen
+/r
+r 57.6998203 11.9880556
+name McDonald's
+cuisine burger
+/r
+r 57.6997096 12.0132827
+name Beckmans Gatukäk
+/r
+r 57.6941799 11.9938992
+name Burger King
+/r
+r 57.6940997 11.9937758
+name Lisebergs äteri
+/r
+r 57.6945936 11.993454
+name Comics
+/r
+r 57.6951633 11.9909756
+name Burger King
+/r
+r 57.6951031 11.9940494
+name Burger King
+/r
+r 57.6938957 11.9669727
+name Pizzeria Viktoria
+/r
+r 57.7012092 11.9742077
+name Burger King
+/r
+r 57.6870139 11.9857342
+name Harvest Gatukök &amp; Pizzeria
+cuisine pizza
+/r
+r 57.6938461 11.9892936
+name Tugget
+cuisine pizza
+/r
+r 57.6811296 11.9748752
+name Hemkört Pizzeria
+cuisine pizza
+/r
+r 57.6810718 11.9748901
+cuisine chinese
+/r
+r 57.6895754 11.9807204
+name Pizzeria Gibraltar
+cuisine pizza
+/r
+r 57.6869772 11.9809302
+name Alpa Baguetteria
+cuisine sandwich
+/r
+r 57.6868092 11.9832335
+name Alpa Baguetteria
+cuisine sandwich
+/r
+r 57.6933489 11.9706626
+name Paprika Sandwich Bar
+/r
+r 57.7209535 11.9445384
+name Kebab Burger
+/r
+r 57.7207987 11.9166611
+name toredals pizzeria
+cuisine pizza
+/r
+r 57.7091122 11.9372637
+name Asienköket
+cuisine sushi
+phone +46317192600
+/r
+r 57.7198906 11.926563
+name Pizzeria Mötet
+/r
+r 57.7080231 11.9346051
+name Kapten Nemos
+cuisine pizza
+phone +4631232464
+opening_hours Mo-Fr 11:00-21:00;Sa-Su 12:00-21:00
+website http://kaptennemos.se/
+/r
+r 57.7093454 11.9369036
+name Thailunch
+cuisine thai
+phone +4631515135
+opening_hours Mo-Fr 11:00-15:00
+/r
+r 57.7054711 11.9338013
+name Uknown fast_food
+/r
+r 57.7094378 11.9214118
+name Burger King
+cuisine burger
+/r
+r 57.715693 11.9106838
+name Uknown fast_food
+/r
+r 57.7241103 11.9495444
+name Uknown fast_food
+/r
+r 57.721476 11.9543525
+name Flintston
+/r
+r 57.7225863 11.9287785
+cuisine pizza
+/r
+r 57.7278455 11.9451173
+name Pizzeria Sera
+cuisine pizza
+/r
+r 57.7266096 11.9450153
+name Villagio Pizzeria &amp; Grekisk Grill
+cuisine pizza
+/r
+r 57.7255413 11.8939545
+name Pizzeria Pärlan
+cuisine pizza
+phone +4631537766
+opening_hours Mo-Su 12:00-21:00
+/r
+r 57.7273168 11.8977815
+name Galatali
+cuisine pizza
+phone +4631533933
+/r
+r 57.707929 11.9439263
+name Smedjan grillen
+/r
+r 57.7184629 11.9054675
+name Palermo Pizzeria
+cuisine pizza
+/r
+r 57.7064176 11.9037599
+name Bräcke Pizzeria
+cuisine pizza
+phone +46317149488
+opening_hours Mo-Fr 11:00-22:00;Sa-Su 12:00-22:00
+website http://www.onlinepizza.se
+/r
+r 57.7021876 11.8990879
+name Roma
+cuisine pizza
+phone +4631536253
+/r
+r 57.7276941 11.9443966
+name Chao Thai
+cuisine thai
+/r

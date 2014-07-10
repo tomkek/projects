@@ -1,0 +1,133 @@
+r 57.7137003 12.0043292
+name Paddingtons
+/r
+r 57.7061681 11.9670399
+name Golden Days
+/r
+r 57.7109467 11.9989755
+name Underbar
+/r
+r 57.7157971 12.0039112
+name Halta Lottas krog
+/r
+r 57.7077992 11.9617526
+name Ölrepubliken
+/r
+r 57.7175947 12.0007449
+name Tidbloms pub &amp; restaurang
+opening_hours Mo 17:00-22:00; Tu-Th 17:00-23:00; Fr 16:00-01:00; Sa 14:00-01:00; Su 14:00-20:00
+/r
+r 57.704969 11.9686557
+name O'Learys
+/r
+r 57.7075147 11.9709083
+name Alysa Pub
+/r
+r 57.7037493 11.9694919
+name Berså
+website http://www.berså.se/
+/r
+r 57.7091145 11.9689897
+name Fair Play
+/r
+r 57.7057096 11.9678406
+name Gretas
+contact:phone 031136949
+opening_hours Fr-Sa 21:00-04:00
+website http://www.gretas.nu
+/r
+r 57.7087635 11.9691548
+name Restaurang Murveln
+/r
+r 57.7050461 11.9629144
+name The Bishops Arms
+phone 0317204045
+opening_hours Mo 16:00-00:00; Tu-Th 16:00-01:00 Fr-Sa 16:00-02:00; Su 16:00-23:00
+website http://www.bishopsarms.com
+/r
+r 57.7049451 11.9693002
+name The Dubliner
+phone +4631139020
+opening_hours Mo-Th 11:00-03:00; Fr-Sa 11:00-05:00; Su 12:00-01:00
+website http://www.dubliner.se/
+/r
+r 57.7038482 11.9676985
+name Ölhallen 7:an
+/r
+r 57.6964744 11.9507077
+name Hagabion
+cuisine vegetarian
+/r
+r 57.6994417 11.9532082
+name Bishop's Arms
+/r
+r 57.6995941 11.9536536
+name Dubliner's
+/r
+r 57.699145 11.9491075
+name The Rover
+/r
+r 57.6992836 11.9494036
+name Ölstugan 1892 Tullen
+/r
+r 57.6990919 11.9422503
+name Haket
+phone 031145888
+website http://www.haketpub.se/
+email haket@telia.com
+/r
+r 57.6949134 11.9210063
+name Majornas Krog
+/r
+r 57.687483 11.978639
+name Basen
+/r
+r 57.6866112 11.9944396
+name Café Olof
+/r
+r 57.686017 11.9830842
+name Johannebar
+/r
+r 57.6874365 11.9918788
+name Scotty Bar
+/r
+r 57.6912657 11.9834818
+name Rotary pub
+opening_hours We-Fr 19:00-00:00
+website http://www.rotarypub.se
+email info@rotarypub.se
+/r
+r 57.6985416 11.9781129
+name Bishop Arm´s
+/r
+r 57.7001719 11.9680802
+name Champagnerian
+/r
+r 57.7001929 11.9684292
+name Charlies Änglar
+phone 0317113833
+website http://www.charliesanglar.net/
+/r
+r 57.7002388 11.9692351
+name Chez Amis
+phone 0317114404
+website http://gastrogate.com/restaurang/chezamis
+/r
+r 57.6999358 11.9684467
+name Skål
+/r
+r 57.7198676 11.9494994
+name Ada's Pub
+/r
+r 57.7077992 11.9617526
+name Ölrepubliken
+/r
+r 57.7242491 11.9025891
+name Svartedalens Krog
+/r
+r 57.7050461 11.9629144
+name The Bishops Arms
+phone 0317204045
+opening_hours Mo 16:00-00:00; Tu-Th 16:00-01:00 Fr-Sa 16:00-02:00; Su 16:00-23:00
+website http://www.bishopsarms.com
+/r

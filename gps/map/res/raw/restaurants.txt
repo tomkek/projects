@@ -1,0 +1,647 @@
+r 57.7092082 11.9650383
+name Uknown restaurant
+/r
+r 57.7063984 12.0250747
+name Skatås Kök &amp; Bar
+/r
+r 57.7038774 11.9635515
+name Pizza Hut
+cuisine pizza
+/r
+r 57.709233 11.9678368
+name Asienköket
+cuisine sushi
+/r
+r 57.7092142 11.9664218
+name Ristorante Othello
+cuisine italian
+phone 031135152
+website http://www.othello.se/
+email info@othello.se
+/r
+r 57.7091229 11.9650816
+cuisine pizza
+/r
+r 57.7096994 11.9653534
+name Swedish Taste
+/r
+r 57.7096371 11.9645998
+name Bommen
+/r
+r 57.7097236 11.9640087
+name Bergmans
+/r
+r 57.7109165 11.963037
+name Uknown restaurant
+/r
+r 57.7139075 12.0067065
+name Masala
+cuisine indian
+/r
+r 57.7136778 11.9969996
+name Rajmahal
+cuisine indian
+/r
+r 57.7133569 11.9974202
+name Cyrano
+cuisine pizza
+/r
+r 57.7079606 11.9705952
+name Mother India
+cuisine indian
+/r
+r 57.7044491 11.9757305
+name Trädgår'n
+/r
+r 57.7032111 11.9626279
+name Soppdax
+/r
+r 57.7082694 11.9653103
+name Office Food
+/r
+r 57.7059279 11.9719105
+name Sun Wall
+/r
+r 57.7044494 11.9722537
+name Ritz
+/r
+r 57.7069266 11.970301
+name Palace
+/r
+r 57.7259877 12.0056725
+name Pannrummet
+cuisine regional
+opening_hours Mo-Fr 11:00-14:00
+/r
+r 57.7142482 12.0018589
+name Thai Nisa
+cuisine thai
+/r
+r 57.7046796 11.9617326
+name Bliss
+cuisine international
+/r
+r 57.7059185 12.0227597
+name Pizzeria Pomodoro
+phone +46 31 191701
+/r
+r 57.7047735 11.9619735
+name m2
+/r
+r 57.7051527 11.9626514
+name Uknown restaurant
+/r
+r 57.7123013 11.9678453
+name Bon Vivant
+cuisine regional
+/r
+r 57.7147184 11.9981565
+name Lilla Restaurangen
+cuisine pizza
+/r
+r 57.7144978 12.0011767
+name Yanking
+cuisine chinese
+/r
+r 57.7074604 11.9620085
+name Himalaya
+/r
+r 57.7149012 12.0044574
+name Imperial
+cuisine chinese
+/r
+r 57.7136004 12.0067856
+name La Venezia
+cuisine pizza
+/r
+r 57.7120411 12.007542
+name Sofra
+cuisine turkish
+/r
+r 57.7080287 11.9670122
+name Andrum
+phone 031138504
+/r
+r 57.7082578 11.9669163
+name Malaysia Saté Restaurant
+cuisine asian
+phone 0317115710
+website http://www.malaysiasate.se/
+/r
+r 57.703534 11.9673812
+name Amanda Boman
+/r
+r 57.7037688 11.9682031
+name Bee Kök &amp; Bar
+opening_hours Mo-Th 11:30-23:00; Fr 11:30-02:00; Sa 11:30-03:00; Su 13:00-23:00
+website http://www.beebar.se/
+/r
+r 57.7034919 11.9692813
+name Grillhousee
+/r
+r 57.7071584 11.9687543
+name Jensen's Bøfhus
+cuisine steak_house
+contact:phone +46031150005
+opening_hours Mo-Su 11:00-21:00
+website http://www.jensens.se/
+/r
+r 57.703921 11.9679591
+name Kungstorget
+cuisine regional
+phone 031139290
+website http://gastrogate.com/restaurang/kungstorget
+/r
+r 57.7034919 11.9690283
+name S.P.I.C.E
+cuisine thai
+website http://www.spiceitrestaurang.com/
+/r
+r 57.7035526 11.9693131
+name Sushi Yama
+cuisine sushi
+/r
+r 57.7035097 11.9684116
+name Till Salu
+/r
+r 57.7035745 11.968907
+name Tranquilo
+/r
+r 57.7033502 11.9678479
+name 14 m2 mat
+/r
+r 57.7090714 11.9801518
+name Star Bowling
+/r
+r 57.7079437 11.9906176
+name Restaurang Vällagat
+/r
+r 57.7056538 11.966848
+name Haiku Sushi
+/r
+r 57.6857503 11.9186565
+name Götas Kök och Bar
+/r
+r 57.6934832 11.9529294
+name Karlson's Garage &amp; Bar
+/r
+r 57.7004554 11.9600666
+name Rio Rio
+/r
+r 57.6833367 11.9471393
+name Villa Belparc
+/r
+r 57.7032111 11.9626279
+name Soppdax
+/r
+r 57.6951398 11.9523033
+name Rumpan Bar
+/r
+r 57.6950395 11.9530811
+name Hos Pelle
+cuisine husmanskost
+website http://www.hospelle.se/
+/r
+r 57.6944761 11.9562837
+name Thai Food &amp; Take Away
+cuisine thai
+/r
+r 57.6925455 11.9494559
+name Jennys Place Kin Long
+/r
+r 57.6925491 11.9489718
+name Manfred's Brasserie
+/r
+r 57.692718 11.9501209
+name Pasta e Contorni
+/r
+r 57.6927353 11.9491553
+name Pasta Haus
+/r
+r 57.6927345 11.9493082
+name Restaurang o. Pizzeria Da Vinci
+/r
+r 57.6925386 11.9499235
+name Ec2 Take-Away Thai
+/r
+r 57.6925554 11.9483734
+name Hostaria Casa Nostra
+/r
+r 57.6925272 11.9518442
+name Restaurang Bellini
+/r
+r 57.6943921 11.9560753
+name Plain Kitchen
+website http://www.plainkitchen.se
+/r
+r 57.6871935 11.9278363
+name Old Town
+/r
+r 57.693056 11.9530047
+name Mykonos Grekisk Taverna
+cuisine greek
+website www.mykonos.se
+/r
+r 57.6964919 11.9251178
+name Pizzeria Venedig
+/r
+r 57.6989131 11.9097756
+name Pizzeria Livia
+phone +4631650100
+/r
+r 57.6920494 11.9544897
+name Aberdeen
+/r
+r 57.6907792 11.9524399
+name That´s Amore
+/r
+r 57.6917925 11.9526776
+name Kalimera
+/r
+r 57.6918421 11.9515854
+name Canton House
+/r
+r 57.6926803 11.9553451
+name Cafe Svea
+/r
+r 57.6927088 11.9546375
+name Min Bror och Jag
+website http://minbrorochjag.se/
+/r
+r 57.6910023 11.9523717
+name Texas Long Horn
+/r
+r 57.702508 11.9602565
+name Indiska Hörnet
+cuisine indian
+/r
+r 57.699923 11.913746
+name Faro Resturang
+phone +4631508270
+/r
+r 57.6840688 11.9586553
+name Lunchen
+website www.lunchen.nu
+/r
+r 57.6944021 11.9557136
+name Dubbel Dubbel
+cuisine chinese
+website http://dubbeldubbel.se
+/r
+r 57.6985576 11.9435998
+name Galliano
+/r
+r 57.6942227 11.9186231
+name Golden Lee
+/r
+r 57.6938231 11.918484
+name Govindas vegetariska servering
+website http://www.govindas-goteborg.se/
+/r
+r 57.6924858 11.9543247
+name Gyllene Prag
+website www.gylleneprag.se
+/r
+r 57.6984354 11.9323175
+name Mañana
+/r
+r 57.6974764 11.950685
+name The Old Beefeater Inn
+/r
+r 57.6991093 11.9424822
+name Yamato
+cuisine japanese
+/r
+r 57.6959866 11.9678411
+name Pride of India
+/r
+r 57.6962043 11.9680665
+name Tabeilu Sushi
+/r
+r 57.6975579 11.9660551
+name Japan House
+/r
+r 57.6940423 11.9778123
+name Thörnströms Kök
+/r
+r 57.6888066 11.96729
+name Restaurang Afamia
+/r
+r 57.6821912 11.9634895
+name Restaurang Gastronomen
+/r
+r 57.6930686 11.9709267
+name Restaurant Landala
+/r
+r 57.698797 11.9762
+name Zaika Flavour of India
+cuisine indian
+phone 031165077
+opening_hours Su-Th 11:00-23:00; Fr-Sa 11:00-24:00
+website www.zaika.se
+/r
+r 57.7003726 11.9745354
+name Lilla London
+/r
+r 57.6946558 11.9938241
+name Trebello
+/r
+r 57.6960493 11.9921876
+name Lisebergs Wärdshus
+/r
+r 57.6947907 11.9929065
+name Järnvägsrestaurangen
+/r
+r 57.6963502 11.9922953
+name Huvudrestauranten
+/r
+r 57.696305 11.992027
+name Applåd
+/r
+r 57.700187 11.9722157
+name Pizzeria 13
+/r
+r 57.6989745 11.9765061
+name Babar
+/r
+r 57.70198 11.9730381
+name Corazon
+/r
+r 57.7000034 11.9845678
+name Trattoria da Pasquale
+/r
+r 57.6984948 11.9655083
+name Kock &amp; Vin
+website http://www.kockvin.se
+/r
+r 57.6983105 11.9736689
+name Basement Restaurant &amp; Bar
+website www.restbasement.com
+/r
+r 57.688911 11.9669259
+name Gaos Sushi and Coffee
+/r
+r 57.6954528 11.968668
+name Krakow
+/r
+r 57.6967651 11.9664651
+name Petit Cyrano
+/r
+r 57.6989409 11.963224
+name Moon Thai Kitchen
+/r
+r 57.6975246 11.9762559
+name Familjen
+cuisine regional
+/r
+r 57.6875679 11.9863214
+name Wok House
+cuisine thai
+/r
+r 57.6864299 11.9861017
+name Baan Thai
+cuisine thai
+/r
+r 57.6876008 11.9825338
+name Miss Fajitas
+/r
+r 57.6916272 11.9917879
+name Tim's Thai Kök
+cuisine thai
+phone 031-408001
+/r
+r 57.6910256 11.9922757
+name Lilla Mijas
+cuisine spannish
+/r
+r 57.6889781 11.9904882
+name Plaka
+cuisine greek
+/r
+r 57.6919238 11.9914058
+name Ichi Ban
+cuisine sushi
+/r
+r 57.6909714 11.9923456
+name Restaurang Monte Bianco
+cuisine italian
+website http://www.restaurangmontebianco.se/
+/r
+r 57.6888708 11.9905445
+name Madras
+cuisine indian
+/r
+r 57.6900442 11.9933687
+name Pasta ETC.
+cuisine italian
+phone 031-40 67 20
+opening_hours Mo 11:00-14:30; Tu-Fr 11:00-14:30,17:00-22:00;Sa 14:00-22:00;Su 14:00-21:00
+website http://www.pasta-etc.se
+/r
+r 57.6936764 11.9894654
+name EAT
+cuisine regional
+/r
+r 57.6891455 11.9954607
+name San souan
+cuisine regional
+/r
+r 57.6947261 11.9883573
+name Hatsukoi Sushi
+cuisine sushi
+/r
+r 57.6936305 11.9895193
+name Restaurang Kejsaren
+cuisine chinese
+/r
+r 57.6947002 11.9896991
+name tabla
+cuisine regional
+/r
+r 57.6907816 11.9885719
+name Rimini
+cuisine italian
+/r
+r 57.6948901 11.9875373
+name Sushi Sallad Kaffe
+cuisine sushi
+/r
+r 57.6902553 11.9889314
+name Thai Smile
+cuisine Thai
+phone 031-208009
+/r
+r 57.6938942 11.9892456
+name Sattva
+cuisine vegetarian
+/r
+r 57.6909987 11.9877772
+name Eklanda Pizzeria
+cuisine pizza
+/r
+r 57.6916627 11.9873799
+name Sushi Wong
+cuisine sushi
+/r
+r 57.6949302 11.9870244
+name Bai Kraprao
+cuisine thai
+/r
+r 57.6867471 11.995639
+name Pizzeria Mums
+cuisine pizza
+phone 031-40 00 34
+/r
+r 57.6944424 11.9875654
+name La Sultana
+cuisine pizza
+/r
+r 57.6980183 11.9740994
+name Restaurang 28+
+/r
+r 57.696878 11.980946
+name Fond
+/r
+r 57.6985258 11.9654689
+name Björns Bar
+/r
+r 57.7018594 11.974602
+name Texas Long Horn
+/r
+r 57.6878708 11.9822874
+name Pasta Pasta
+/r
+r 57.6975754 11.9776678
+name Meet
+cuisine steak_house
+website http://www.restaurangmeet.se
+/r
+r 57.7004192 11.9765904
+name Barique
+cuisine international
+/r
+r 57.68749 11.9826227
+name Campus Pizzeria
+cuisine pizza
+/r
+r 57.6898812 11.9848981
+name Nongs Thaimat
+cuisine thai
+/r
+r 57.6886533 11.9815728
+name Sushi me
+cuisine sushi
+/r
+r 57.6873485 11.9827584
+name Yuko Sushi
+cuisine sushi
+/r
+r 57.6847377 11.9779502
+name Restaurang Einstein
+cuisine regional
+phone 0317724170
+website http://butlercatering.se/
+email info@butlercatering.se
+/r
+r 57.6997854 11.9687532
+name Smaka
+cuisine regional
+phone 031132247
+opening_hours Su-Th 17:00-01:00;Fr-Sa 17:00-02:00
+website http://www.smaka.se/
+email info@smaka.se
+/r
+r 57.7038774 11.9635515
+name Pizza Hut
+cuisine pizza
+/r
+r 57.7199869 11.9265201
+cuisine thai
+/r
+r 57.7097236 11.9640087
+name Bergmans
+/r
+r 57.7109165 11.963037
+name Uknown restaurant
+/r
+r 57.7032111 11.9626279
+name Soppdax
+/r
+r 57.7082694 11.9653103
+name Office Food
+/r
+r 57.7055628 11.9334902
+name Uknown restaurant
+/r
+r 57.7092741 11.9416987
+name Kooperativet
+cuisine swedish;asian;pasta
+phone +4631227797
+opening_hours Mo-Fr 11:00-14:00
+website http://kooperativet.se
+/r
+r 57.7047056 11.9374468
+name Restaurang Äran
+phone +46317792320
+opening_hours Mo-Fr 11:00-14:00
+website http://rams.se/
+/r
+r 57.7065751 11.9394842
+name L's Kitchen
+contact:phone +46 31 7223950
+opening_hours Mo-Fr 07:30-17:00
+/r
+r 57.70611 11.9387128
+name Bistrot
+contact:phone +46 31 223323
+/r
+r 57.7065735 11.9453508
+name Masala Kitchen
+cuisine indian
+contact:phone +46 31 190920
+opening_hours Mo-Fr 11:00-15:00
+/r
+r 57.7075336 11.9435483
+name Picadeli Lindholmen
+phone +4631516015
+opening_hours Mo-Fr 11:00-14:00
+website http://www.picadeli.se/lindholmen.html
+email lindholmen@picadeli.se
+/r
+r 57.7098348 11.9426954
+name Spacys
+contact:phone +46 733 523943
+opening_hours Mo-Fr 11:00-14:00
+/r
+r 57.7046796 11.9617326
+name Bliss
+cuisine international
+/r
+r 57.7047735 11.9619735
+name m2
+/r
+r 57.7051527 11.9626514
+name Uknown restaurant
+/r
+r 57.7240515 11.9456384
+name Ton Cha Bub
+cuisine thai
+phone +46(0)31-510120
+website http://www.tonchabub.se/
+/r
+r 57.7058503 11.9587986
+name Restaurang Bamboo
+cuisine mongolisk
+website http://www.restaurangbamboo.se/
+/r
+r 57.7218443 11.9330192
+name Divan Orientalisk grill &amp; kök
+opening_hours Mo-Sa 10:00-22:00, Su 11:00-21:00
+/r
+r 57.702508 11.9602565
+name Indiska Hörnet
+cuisine indian
+/r
+r 57.7074604 11.9620085
+name Himalaya
+/r

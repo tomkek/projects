@@ -1,0 +1,203 @@
+r 57.7033347 11.9726621
+name Cafe Grindstugan
+/r
+r 57.7095856 11.9669028
+name Café green &amp; rum
+/r
+r 57.7133516 12.0071163
+name Dahls Bakeshop
+cuisine coffee_shop
+/r
+r 57.7055911 11.9632523
+name Konditori Brogyllen
+/r
+r 57.706602 11.9760631
+name Rosenkaféet
+cuisine coffee_shop
+/r
+r 57.7047262 11.9699811
+name Cappuccino
+cuisine coffee_shop
+/r
+r 57.7132395 11.9674643
+name Utkiken
+/r
+r 57.7077012 11.9644279
+name Café Kronhuset
+/r
+r 57.7035869 11.9665994
+name Espressohouse
+cuisine coffee_shop
+/r
+r 57.7054274 11.9715848
+name Fröken Olssons Kafe
+cuisine coffee_shop
+website http://www.frokenolsson.se/
+/r
+r 57.7033703 11.9654205
+name Da Matteo i viktoriapassagen
+contact:phone 031 - 774 28 81
+website http://damatteo.se/
+/r
+r 57.7064357 11.9701985
+name Mauritz Kaffe
+cuisine coffee_shop
+/r
+r 57.7145494 11.9997122
+name Le Paine Francaise
+cuisine coffee_shop
+/r
+r 57.7051961 11.9691745
+name Condeco
+website http://www.condeco.com/
+/r
+r 57.7052001 11.9709064
+name Condeco
+website http://www.condeco.com/
+/r
+r 57.708008 11.9677259
+name Festival Café &amp; Konditori
+/r
+r 57.6857685 11.9446331
+name Björngårdsvillan
+/r
+r 57.6873072 11.9423693
+name Café Bräket
+/r
+r 57.6889388 11.9515768
+name Solterrassen
+/r
+r 57.6929053 11.9522201
+name Kafé Still
+/r
+r 57.6924834 11.9561008
+name Le pain Francais
+/r
+r 57.6809039 11.9555432
+name Botaniska Paviljongen
+website http://www.botaniskapaviljongen.com/
+/r
+r 57.6914364 11.9538332
+name Gnutiken
+website http://www.gnutiken.se/
+/r
+r 57.6939113 11.9583462
+name Mondo Cafe Glassbar
+/r
+r 57.7024164 11.9557343
+name Språkcaféet
+cuisine coffee_shop
+website http://www.sprakcafeet.com
+/r
+r 57.6971646 11.9483614
+name Café Con Leche
+/r
+r 57.6964417 11.9517563
+name Condeco
+/r
+r 57.6810042 11.9411838
+name Uknown cafe
+/r
+r 57.6953982 11.9010172
+name Färjenäs Café
+opening_hours Mo-Th 05:00-14:00
+/r
+r 57.6984162 11.9602145
+name Café Nöller
+/r
+r 57.694756 11.9198912
+name Cafe Majviken
+/r
+r 57.6957483 11.9426597
+name Café Masthugget
+/r
+r 57.6927589 11.955501
+name Egg &amp; Milk
+/r
+r 57.6944312 11.9187855
+name Take a Break Café
+/r
+r 57.6802747 11.9698909
+name Guldhedstornets Café
+website http://www.guldhedstornet.se/
+/r
+r 57.6947229 11.9849241
+name Café Näckrosen
+/r
+r 57.695035 11.9954388
+name Café Åkaj
+/r
+r 57.6948775 11.9937222
+name Systrarna Olsons Våffelbageri
+/r
+r 57.6958639 11.9929551
+name Café Taube
+/r
+r 57.697014 11.985724
+name Franks Coffe
+/r
+r 57.697865 11.982765
+name Soup N Bagel
+/r
+r 57.6879216 11.9853705
+name Café! Smarro
+/r
+r 57.6915665 11.9918658
+name Starlette Café &amp; Salad Bar HB
+phone +46 31 40 74 08
+/r
+r 57.6949328 11.9881496
+name Cafe Pequllas Salladsbar
+cuisine sandwich
+/r
+r 57.6940531 11.9870809
+name Kajsas Kafé
+/r
+r 57.6938282 11.9876111
+name Smörgåsnisse
+cuisine sandwich
+/r
+r 57.6948077 11.9875326
+name Jerkstrands Konditori
+/r
+r 57.6869966 11.9830729
+name Johannebergs Glass
+/r
+r 57.6910737 11.9883329
+name Seklets Café &amp; Butik
+/r
+r 57.6995141 11.9711487
+name Café Dali
+/r
+r 57.6994005 11.9708772
+name Garbo Café
+/r
+r 57.7055911 11.9632523
+name Konditori Brogyllen
+/r
+r 57.7068126 11.9372572
+name Uknown cafe
+/r
+r 57.7024164 11.9557343
+name Språkcaféet
+cuisine coffee_shop
+website http://www.sprakcafeet.com
+/r
+r 57.7055311 11.9367709
+name Uknown cafe
+/r
+r 57.7225017 11.9420447
+name Galerija
+/r
+r 57.7208817 11.9432517
+name Cream cafe
+/r
+r 57.7180998 11.9453733
+name Coffe Bar M
+/r
+r 57.7201142 11.9360768
+name Uknown cafe
+/r
+r 57.7275886 11.9450394
+name Rosa-Mi Café
+/r

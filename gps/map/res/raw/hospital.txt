@@ -1,0 +1,21 @@
+r 57.7269607 12.0065543
+name Gamlestadens vårdcentral
+/r
+r 57.6821945 11.9083564
+name Vårdcentral
+/r
+r 57.698112 11.9439974
+name Masthuggets vårdcentral
+/r
+r 57.6995896 11.9578707
+name Capio Axess
+/r
+r 57.700678 12.0088432
+name Ekmanska sjukhuset
+/r
+r 57.7204563 11.9399639
+name Brämaregårdens Vårdcentral
+/r
+r 57.7212244 11.9367279
+name Capio Lundby Sjukhus
+/r

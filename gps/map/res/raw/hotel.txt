@@ -1,0 +1,88 @@
+r 57.7070183 11.9729882
+name Radisson Blu Scandinavia
+website http://www.radissonblu.se/hotell-goteborg
+/r
+r 57.7081633 11.9779952
+name Scandic Crown
+/r
+r 57.7079955 11.9722502
+name Hotel Eggers
+website http://www.hoteleggers.se/
+/r
+r 57.7092895 11.9731993
+name First Hotel G
+/r
+r 57.7078625 11.9713061
+name Uknown hotel
+/r
+r 57.7081513 11.9705789
+name Scandic Europa
+/r
+r 57.7093083 12.0071058
+name Hotel Örgryte
+phone +46-31-7078900
+website http://www.hotelorgryte.se
+/r
+r 57.7051875 11.9670121
+name Hotel Vanilj
+/r
+r 57.7101236 11.9960123
+name Spar Hotel Garda
+/r
+r 57.7051298 11.9628279
+name Elite Plaza
+/r
+r 57.7127941 11.965472
+name Hotel Liseberg Barken Viking
+website http://www.liseberg.com/en/home/Accommodation/Hotel/Hotel-Barken-Viking/
+/r
+r 57.7160291 11.9724618
+name Uknown hotel
+/r
+r 57.7177506 12.0007608
+name Tidbloms Hotel
+/r
+r 57.703985 11.9682213
+name Avalon Hotel
+website http://www.avalonhotel.se/
+/r
+r 57.7090456 11.9791458
+name Clarion Odinsgatan
+/r
+r 57.6904788 11.9076669
+name Uknown hotel
+/r
+r 57.7011336 11.9137912
+name Quality Hotel 11
+phone 0317791111
+website http://www.choicehotels.no/choice/en/goteborg-hotel-quality-se032-en
+email q.11@choice.se
+/r
+r 57.6952367 11.9217327
+name Spar Hotel
+/r
+r 57.6974794 11.9890508
+name Gothia Towers
+/r
+r 57.701496 11.9817922
+name Hotell Liseberg Heden
+/r
+r 57.6873791 11.9920309
+name SGS Veckobostäder
+/r
+r 57.6895433 11.9938158
+name City Lägenhetshotell
+phone 031-401911
+/r
+r 57.6983936 11.9783068
+name Elite Park Avenue
+/r
+r 57.7014124 11.9848527
+name Scandic Opalen
+/r
+r 57.7189867 11.948593
+name Kville
+/r
+r 57.7051298 11.9628279
+name Elite Plaza
+/r

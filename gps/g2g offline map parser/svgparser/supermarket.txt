@@ -1,0 +1,96 @@
+r 57.7089429 11.9685542
+name Hemköp
+/r
+r 57.7099644 11.9857603
+name ICA Nära Frigga
+brand ICA Nära
+/r
+r 57.7106608 11.9865435
+name Coop Konsum
+brand Coop Konsum
+/r
+r 57.7154608 12.0031287
+name Lidl
+/r
+r 57.7149085 12.0005777
+name ICA Supermarket Olskroken
+/r
+r 57.7188717 12.026034
+name Coop Konsum Munkebäck
+/r
+r 57.6987654 11.9348726
+name Hemköp
+/r
+r 57.6963597 11.9341787
+name Willys hemma
+/r
+r 57.6971715 11.9275269
+name ICA Supermarket
+/r
+r 57.6984091 11.9431133
+name Hemköp
+/r
+r 57.6931413 11.9590506
+name Hemköp Brunnsgatan
+/r
+r 57.69275 11.9513718
+name Hemköp Kals Matmarknad
+/r
+r 57.6932278 11.947363
+name Willys
+/r
+r 57.695639 11.9521555
+name Hemköp Linnégatan
+/r
+r 57.6971246 11.9591889
+name Ica Nära Haga
+/r
+r 57.6985869 11.9331899
+name Lidl
+/r
+r 57.7014491 11.9609213
+name Hemköp Rosenlund
+/r
+r 57.6941105 11.919611
+name Matöppet
+/r
+r 57.6984658 11.9929922
+name ICA Focus
+/r
+r 57.6891249 11.9672746
+name Tempo
+/r
+r 57.6811766 12.0005801
+name Willys
+/r
+r 57.6802083 12.0051206
+name ICA MAXI
+/r
+r 57.6840297 11.9717154
+name Hemköp
+/r
+r 57.6932839 11.9711734
+name Coop Konsum
+/r
+r 57.7215036 11.937423
+name Willys
+/r
+r 57.7215157 11.9350764
+name Coop
+/r
+r 57.7088856 11.9195249
+name Coop Forum Eriksberg
+/r
+r 57.7098767 11.9291465
+name ICA Kvantum Sannegården
+opening_hours Mo-Su 08:00-22:00
+/r
+r 57.7194321 11.9470875
+name Willys
+/r
+r 57.7214822 11.9339598
+name Wiesel Matcenter
+/r
+r 57.7234467 11.9538952
+name Coop Forum Backaplan
+/r

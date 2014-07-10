@@ -1,0 +1,15 @@
+//File: data.proto
+//
+//Optional Embedded C internal options:
+//@max_repeated_length=100
+//@max_string_length=32
+
+message FromSTM32F4Board {
+  required int32 sum = 1;
+}
+
+message ToSTM32F4Board {
+  required int32 summand1 = 1;
+  required int32 summand2 = 2;
+}
+
